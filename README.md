@@ -2,7 +2,7 @@
 
 ### Dependencies
 ***
-- PS-Hud: https://github.com/Project-Sloth/ps-hud
+- PS-Hud: https://github.com/XXMAAXX/ps_hud_qbox_dv.git
 ### General Information
 ***
 - Buffs are new effects that a player can get. Example: Stamina Buff makes a player run faster.
